@@ -1,0 +1,43 @@
+/* add your CSS here */
+body{
+    font-size: 20px;
+}
+#container{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid lightgray;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+
+}
+#sectionA{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
+    width: 100%;
+}
+.p{
+    font-style: italic;
+}
+#sectionB{
+    width: 86%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid lightgrey;
+    padding: 2%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+span{
+    font-weight: bold;
+    margin: 0;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+}
